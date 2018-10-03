@@ -10,6 +10,8 @@ R1 & R2 are for a possible expansion of the software.
 
 This layout is maybe not perfect. Im happy about tips and tricks. 
 
+Known Bugs:
+- The drill holes for the oxco are a little bit too tight
 
 
 ![alt text](https://github.com/Qw3rtzuiop/Lars-GPSDO-PCB/blob/master/pictures/IMG_20180627_150626.jpg)
