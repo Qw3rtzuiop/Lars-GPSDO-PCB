@@ -12,7 +12,7 @@ This layout is maybe not perfect. Im happy about tips and tricks.
 
 The PCB-Layout was created with Target3001!. There is a free version available.
 
-Known Bugs:
+Known Errors:
 - The drill holes for the oxco are a little bit too tight
 
 
