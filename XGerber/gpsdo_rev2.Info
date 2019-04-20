@@ -1,0 +1,22 @@
+CAM-Ausgabe für AktuellesProjekt gpsdo_rev2.T3001
+Ausgabe am 20. Apr 2019, 11:32h
+AktuellesProjekt erzeugt mit TARGET 19.9.0.24 design station
+Ausgabe erzeugt mit TARGET 3001! V19.9.0.24
+AktuellesProjekt von TARGET NC-Version: Kommerzielle Nutzung ist strafbar!
+Größe der Platine: 100 mm x 75 mm
+
+Folgend die Beschreibung der erzeugten Dateien:
+
+gpsdo_rev2.GTL = 16 = Kupfer oben L1   ( *.GTL )
+gpsdo_rev2.GBL = 2 = Kupfer unten L2   ( *.GBL )
+gpsdo_rev2.TOL = Bohrerliste
+gpsdo_rev2.XLN = Durchkontaktierte Bohrungen
+gpsdo_rev2.GKO = 23 = Platinen-Umriss   ( *.GKO )
+gpsdo_rev2.GTS = 18 = Lötstoppmaske oben   ( *.GTS )
+gpsdo_rev2.GBS = 4 = Lötstoppmaske unten   ( *.GBS )
+gpsdo_rev2.GTO = 21 = Bestückungsdruck oben   ( *.GTO )
+gpsdo_rev2.APR = TARGET 3001! Blendenliste
+gpsdo_rev2.Whl = Eagle kompatible Blendenliste
+
+
+Achtung: Dünnste Bahn ist kleiner 0,150mm: (0,127 bei 19,05 | -32,7025) auf Ebene 21

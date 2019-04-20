@@ -1,0 +1,15 @@
+T1 0.400000mm  328x [-48.260000 | -36.353750]
+T2 0.600000mm  7x [18.415000 | -10.180000]
+T3 0.800000mm  50x [-16.510000 | 8.255000]
+T4 0.914400mm  30x [17.780000 | -31.432500]
+T5 1.000000mm  12x [-34.925000 | 22.621875]
+T6 1.100000mm  7x [25.161875 | 5.635625]
+T7 1.500000mm  4x [-46.610000 | 15.240000]
+
+; 7 Werkzeuge
+; 438 Bohrungen
+; Duennster Bohrer: 0.400000mm
+
+; Die angegebenen Durchmesser sind Endmaße.
+; Die wirklichen Bohrerdurchmesser müssen erfahrungsgemäß anders gewählt werden!
+
